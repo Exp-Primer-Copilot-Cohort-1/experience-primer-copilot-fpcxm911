@@ -5,4 +5,4 @@ function skillsMember() {
         skills: ['JavaScript', 'React', 'Node']
     };
     return member;
-}git add member.js
+}
